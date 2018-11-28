@@ -9,7 +9,7 @@
 // This program is supposed to encrypt and decrypt a message from the user with Vigenere cipher.
 
 **************************************
-#Table of Contents
+# Table of Contents
 - Documentation from Jonathan Carreon(Encryption)
 - Documentation from Guadalupe Chavez(Decryption)
 
