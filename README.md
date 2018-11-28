@@ -5,9 +5,16 @@
 - Guadalupe Chavez
 
 **************************************
-
+# Description
 // This program is supposed to encrypt and decrypt a message from the user with Vigenere cipher.
 
 **************************************
+#Table of Contents
+- Documentation from Jonathan Carreon(Encryption)
+- Documentation from Guadalupe Chavez(Decryption)
 
-- Jonathan Carreon-Documentation
+**************************************
+
+- Jonathan Carreon(Encryption)
+
+// 
