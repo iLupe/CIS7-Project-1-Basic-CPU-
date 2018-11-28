@@ -8,3 +8,6 @@
 
 // This program is supposed to encrypt and decrypt a message from the user with Vigenere cipher.
 
+**************************************
+
+- Jonathan Carreon-Documentation
