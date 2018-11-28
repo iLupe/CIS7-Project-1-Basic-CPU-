@@ -17,4 +17,4 @@
 
 - Jonathan Carreon(Encryption)
 
-// 
+// When starting on the programming(Encryption) for case-project 3, I evaluated...
