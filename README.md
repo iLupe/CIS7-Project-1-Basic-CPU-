@@ -17,4 +17,7 @@
 
 - Jonathan Carreon(Encryption)
 
-// When starting on the programming(Encryption) for case-project 3, I evaluated...
+// When starting on the programming(Encryption) for case-project 3, I evaluated other types of
+// ciphers such as Caesar and Linear Shift for encryption for comparisons. During my evaluation,
+// I found out that the Caesar cipher is similar to the Vigenere cipher in a way that it involves
+// its 26 possible ciphers.
